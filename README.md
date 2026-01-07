@@ -45,4 +45,21 @@ Una webcam es un periférico de entrada que permite capturar imágenes y vídeo 
 
 -Micrófono con reducción de ruido.
 
--Diseño compacto y sencillo para uso doméstico.
+-Diseño compacto y sencillo.
+
+## -Conclusiones
+La webcam es un periférico esencial en la actualidad debido al auge del teletrabajo, la educación online y la creación de contenido digital. Su facilidad de uso, variedad de precios y mejoras tecnológicas la convierten en una herramienta accesible y fundamental para la comunicación moderna.
+
+## -Referencias
+-Documentación general de periféricos informáticos.
+
+-Páginas oficiales de Logitech, Razer y Microsoft.
+
+-Wikipedia: Webcam.
+
+## -licencia
+Este proyecto ha sido creado con fines exclusivamente educativos.
+
+## -autores
+Álvaro Carvajal
+
